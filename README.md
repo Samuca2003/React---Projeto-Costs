@@ -8,7 +8,8 @@ Obs: O arquivo Project.js está na pasta pages do components e o arquivo Project
 
 ![Project js(2)](https://user-images.githubusercontent.com/112135974/221324859-2d3d978a-e801-4439-b2f0-d95f6f00c071.jpg)
 
-"C:\Users\jacso\Pictures\Screenshots\Captura de tela_20230224_212325.png"
+"C:\Users\jacso\Documents\ProjectCard.jpg"
+
 
 
 
